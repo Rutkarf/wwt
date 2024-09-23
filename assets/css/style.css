@@ -1,0 +1,10 @@
+/* assets/css/style.css */
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#threejs-container {
+    width: 100vw;
+    height: 100vh;
+}
